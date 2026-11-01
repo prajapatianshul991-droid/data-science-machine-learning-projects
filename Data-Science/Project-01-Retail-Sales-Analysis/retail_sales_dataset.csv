@@ -1,0 +1,501 @@
+order_id,date,product,category,price,quantity,city,payment_method,rating,discount
+ORD1001,2025-02-02,USB-C Hub,Accessories,1799,5,Noida,Credit Card,3.0,5.0
+ORD1002,2025-10-10,Webcam,Electronics,3299,5,Jaipur,Net Banking,2.0,15.0
+ORD1003,2025-08-27,Phone Stand,Accessories,379,3,Ahmedabad,Credit Card,5.0,0.0
+ORD1004,2025-06-10,Bluetooth Speaker,Electronics,2199,5,Mumbai,Net Banking,3.0,20.0
+ORD1005,2025-06-08,USB-C Hub,Accessories,1799,3,Mumbai,Debit Card,1.0,0.0
+ORD1006,2025-11-10,Notebook Set,Stationery,284,1,Bengaluru,Net Banking,4.0,0.0
+ORD1007,2025-02-01,Backpack,Lifestyle,1899,5,Pune,Net Banking,4.0,0.0
+ORD1008,2025-09-12,Pen Set,Stationery,209,4,Noida,Debit Card,3.0,0.0
+ORD1009,2025-03-15,Desk Mat,Home Office,799,2,,Cash,4.0,10.0
+ORD1010,2025-02-04,Bluetooth Speaker,Electronics,2089,1,Pune,Net Banking,2.0,10.0
+ORD1011,2025-07-12,Mechanical Keyboard,Accessories,2624,1,Delhi,Debit Card,2.0,20.0
+ORD1012,2025-12-23,Phone Stand,Accessories,419,5,Noida,Credit Card,5.0,20.0
+ORD1013,2025-09-26,Desk Lamp,Home Office,1499,4,Ahmedabad,Cash,3.0,15.0
+ORD1014,2025-10-05,Monitor,Electronics,12999,2,Kolkata,Net Banking,4.0,20.0
+ORD1015,2025-09-19,Monitor,Electronics,12999,4,Ahmedabad,Credit Card,,0.0
+ORD1016,2025-10-14,Power Bank,Electronics,1599,1,Chennai,Cash,4.0,0.0
+ORD1017,2025-07-07,Backpack,Lifestyle,1899,4,Hyderabad,Debit Card,5.0,5.0
+ORD1018,2025-02-16,Webcam,Electronics,3299,4,Gurugram,Cash,4.0,20.0
+ORD1019,2025-11-03,Pen Set,Stationery,199,3,Kolkata,Net Banking,5.0,20.0
+ORD1020,2025-06-14,Laptop Stand,Accessories,1364,3,Kolkata,Cash,3.0,10.0
+ORD1021,2025-07-02,Laptop Stand,Accessories,1299,1,Bengaluru,Debit Card,5.0,15.0
+ORD1022,2025-05-16,Desk Mat,Home Office,759,5,Ahmedabad,Cash,5.0,0.0
+ORD1023,2025-03-08,Desk Lamp,Home Office,1424,3,Gurugram,Cash,5.0,0.0
+ORD1024,2025-12-05,Laptop Stand,Accessories,1364,3,Ahmedabad,Debit Card,5.0,15.0
+ORD1025,2025-10-13,Desk Mat,Home Office,839,1,Hyderabad,Cash,2.0,10.0
+ORD1026,2025-08-24,Backpack,Lifestyle,1899,1,Bengaluru,UPI,4.0,10.0
+ORD1027,2025-05-27,Water Bottle,Lifestyle,499,4,Kolkata,Cash,5.0,15.0
+ORD1028,2025-10-28,Backpack,Lifestyle,1899,2,Ahmedabad,UPI,2.0,20.0
+ORD1029,2025-07-19,Monitor,Electronics,12349,4,Mumbai,Debit Card,4.0,10.0
+ORD1030,2025-06-11,Desk Mat,Home Office,799,2,Jaipur,,5.0,5.0
+ORD1031,2025-06-14,Monitor,Electronics,12999,4,Hyderabad,Cash,4.0,5.0
+ORD1032,2025-03-24,Bluetooth Speaker,Electronics,2089,5,Mumbai,UPI,4.0,20.0
+ORD1033,2025-02-03,Pen Set,Stationery,199,1,Jaipur,UPI,5.0,10.0
+ORD1034,2025-07-22,Headphones,Electronics,2799,4,Chennai,UPI,5.0,5.0
+ORD1035,2025-11-21,Wireless Mouse,Accessories,599,5,Gurugram,Debit Card,5.0,0.0
+ORD1036,2025-01-24,Phone Stand,Accessories,399,1,Mumbai,Debit Card,5.0,10.0
+ORD1037,2025-11-10,Backpack,Lifestyle,1804,1,Chennai,Cash,3.0,15.0
+ORD1038,2025-10-30,External SSD,Electronics,6499,2,Chennai,UPI,5.0,0.0
+ORD1039,2025-04-12,Pen Set,Stationery,199,3,Mumbai,Credit Card,5.0,20.0
+ORD1040,2025-08-19,Notebook Set,Stationery,299,4,Noida,UPI,5.0,0.0
+ORD1041,2025-03-02,Wireless Mouse,Accessories,599,1,Ahmedabad,Cash,,0.0
+ORD1042,2025-10-04,Phone Stand,Accessories,379,2,Bengaluru,Debit Card,5.0,0.0
+ORD1043,2025-09-13,Monitor,Electronics,12349,1,Noida,Credit Card,1.0,10.0
+ORD1044,2025-05-10,Wireless Mouse,Accessories,569,1,Delhi,Net Banking,5.0,10.0
+ORD1045,2025-01-25,External SSD,Electronics,6499,2,Noida,Credit Card,5.0,0.0
+ORD1046,2025-12-21,External SSD,Electronics,6824,1,Lucknow,Net Banking,5.0,15.0
+ORD1047,2025-06-12,Water Bottle,Lifestyle,474,3,Bengaluru,UPI,4.0,0.0
+ORD1048,2025-11-22,Backpack,Lifestyle,1899,3,Ahmedabad,UPI,3.0,20.0
+ORD1049,2025-09-05,Monitor,Electronics,12999,1,Bengaluru,UPI,5.0,0.0
+ORD1050,2025-10-12,Backpack,Lifestyle,1994,4,Ahmedabad,Debit Card,4.0,0.0
+ORD1051,2025-10-05,Wireless Mouse,Accessories,569,2,Noida,Debit Card,3.0,15.0
+ORD1052,2025-03-13,Headphones,Electronics,2659,4,Bengaluru,Credit Card,4.0,20.0
+ORD1053,2025-05-13,Backpack,Lifestyle,1899,2,Ahmedabad,Net Banking,3.0,10.0
+ORD1054,2025-06-20,Webcam,Electronics,3464,3,Hyderabad,Debit Card,5.0,10.0
+ORD1055,2025-07-01,Webcam,Electronics,3299,3,Gurugram,UPI,4.0,0.0
+ORD1056,2025-01-16,Notebook Set,Stationery,299,5,Chennai,UPI,3.0,0.0
+ORD1057,2025-07-19,External SSD,Electronics,6499,1,Hyderabad,Cash,4.0,5.0
+ORD1058,2025-02-26,Power Bank,Electronics,1599,5,Pune,UPI,3.0,5.0
+ORD1059,2025-09-29,External SSD,Electronics,6499,4,Hyderabad,Net Banking,4.0,0.0
+ORD1060,2025-09-07,Water Bottle,Lifestyle,499,1,Bengaluru,UPI,4.0,10.0
+ORD1061,2025-12-03,Desk Lamp,Home Office,1499,3,Ahmedabad,Debit Card,4.0,10.0
+ORD1062,2025-09-29,Webcam,Electronics,3299,2,Kolkata,UPI,,5.0
+ORD1063,2025-05-14,Backpack,Lifestyle,1899,5,Kolkata,Net Banking,5.0,15.0
+ORD1064,2025-12-20,USB-C Hub,Accessories,1889,5,Kolkata,Cash,5.0,10.0
+ORD1065,2025-05-30,Webcam,Electronics,3299,3,Noida,Credit Card,2.0,5.0
+ORD1066,2025-04-29,Mechanical Keyboard,Accessories,2374,5,Noida,Net Banking,3.0,0.0
+ORD1067,2025-11-27,Desk Lamp,Home Office,1499,3,Bengaluru,Cash,5.0,0.0
+ORD1068,2025-05-16,Desk Mat,Home Office,759,3,Lucknow,Cash,4.0,20.0
+ORD1069,2025-01-28,Notebook Set,Stationery,284,2,Ahmedabad,Cash,4.0,0.0
+ORD1070,2025-06-21,Backpack,Lifestyle,1994,1,Gurugram,Debit Card,4.0,15.0
+ORD1071,2025-10-18,Pen Set,Stationery,199,1,Jaipur,Cash,4.0,5.0
+ORD1072,2025-03-11,Headphones,Electronics,2659,4,Bengaluru,Cash,3.0,10.0
+ORD1073,2025-06-18,Notebook Set,Stationery,284,3,Noida,Net Banking,4.0,20.0
+ORD1074,2025-02-17,Laptop Stand,Accessories,1364,5,Gurugram,Cash,4.0,0.0
+ORD1075,2025-09-08,Phone Stand,Accessories,399,2,Delhi,Net Banking,4.0,15.0
+ORD1076,2025-06-23,Water Bottle,Lifestyle,499,5,Mumbai,Credit Card,5.0,0.0
+ORD1077,2025-05-01,Desk Mat,Home Office,759,4,Bengaluru,UPI,4.0,0.0
+ORD1078,2025-03-24,External SSD,Electronics,6499,4,Chennai,UPI,3.0,0.0
+ORD1079,2025-07-26,Phone Stand,Accessories,419,5,Ahmedabad,Debit Card,5.0,10.0
+ORD1080,2025-09-02,Monitor,Electronics,12999,4,Delhi,Cash,4.0,5.0
+ORD1081,2025-12-10,Phone Stand,Accessories,399,5,Noida,Credit Card,5.0,5.0
+ORD1082,2025-06-09,Notebook Set,Stationery,314,2,Kolkata,Debit Card,4.0,20.0
+ORD1083,2025-02-28,USB-C Hub,Accessories,1889,2,Pune,Debit Card,4.0,5.0
+ORD1084,2025-10-31,Backpack,Lifestyle,1804,1,Pune,Net Banking,4.0,20.0
+ORD1085,2025-08-18,Power Bank,Electronics,1519,1,Pune,Credit Card,1.0,0.0
+ORD1086,2025-09-13,Desk Lamp,Home Office,1574,4,Chennai,Debit Card,4.0,0.0
+ORD1087,2025-02-05,Desk Lamp,Home Office,1424,3,Hyderabad,UPI,4.0,15.0
+ORD1088,2025-04-25,Notebook Set,Stationery,314,5,Ahmedabad,Net Banking,5.0,5.0
+ORD1089,2025-10-08,Office Chair,Home Office,9449,3,Jaipur,Credit Card,5.0,20.0
+ORD1090,2025-10-31,Water Bottle,Lifestyle,524,1,Mumbai,Debit Card,4.0,15.0
+ORD1091,2025-06-08,Office Chair,Home Office,8999,5,Ahmedabad,Debit Card,5.0,20.0
+ORD1092,2025-10-21,USB-C Hub,Accessories,1799,5,Jaipur,Net Banking,4.0,15.0
+ORD1093,2025-11-04,Wireless Mouse,Accessories,569,2,Delhi,Debit Card,4.0,15.0
+ORD1094,2025-05-22,Phone Stand,Accessories,419,5,Chennai,Credit Card,4.0,20.0
+ORD1095,2025-11-24,Mechanical Keyboard,Accessories,2499,4,Mumbai,Credit Card,5.0,10.0
+ORD1096,2025-04-16,Webcam,Electronics,3464,3,Lucknow,Credit Card,4.0,0.0
+ORD1097,2025-03-29,External SSD,Electronics,6174,2,Mumbai,Net Banking,5.0,15.0
+ORD1098,2025-09-07,Office Chair,Home Office,8999,1,Noida,Cash,5.0,15.0
+ORD1099,2025-08-21,Headphones,Electronics,2659,5,Bengaluru,UPI,5.0,10.0
+ORD1100,2025-02-21,Power Bank,Electronics,1519,5,Kolkata,Credit Card,1.0,15.0
+ORD1101,2025-10-31,Pen Set,Stationery,199,4,Noida,Cash,3.0,15.0
+ORD1102,2025-03-14,Power Bank,Electronics,1679,3,Pune,Cash,3.0,20.0
+ORD1103,2025-10-21,Notebook Set,Stationery,299,3,Pune,UPI,5.0,0.0
+ORD1104,2025-01-03,Phone Stand,Accessories,379,4,Mumbai,Cash,5.0,5.0
+ORD1105,2025-10-18,Power Bank,Electronics,1679,3,Gurugram,Cash,4.0,0.0
+ORD1106,2025-10-15,Backpack,Lifestyle,1804,1,Kolkata,UPI,5.0,20.0
+ORD1107,2025-10-12,Pen Set,Stationery,199,1,Pune,Debit Card,4.0,20.0
+ORD1108,2025-08-31,Headphones,Electronics,2659,1,Pune,UPI,3.0,0.0
+ORD1109,2025-06-22,Backpack,Lifestyle,1804,2,Chennai,Net Banking,4.0,10.0
+ORD1110,2025-09-15,Water Bottle,Lifestyle,499,5,Gurugram,Net Banking,4.0,15.0
+ORD1111,2025-04-12,External SSD,Electronics,6499,2,Noida,Credit Card,4.0,0.0
+ORD1112,2025-10-12,Desk Mat,Home Office,839,2,Kolkata,Net Banking,4.0,15.0
+ORD1113,2025-07-22,Office Chair,Home Office,8999,1,Hyderabad,Net Banking,4.0,0.0
+ORD1114,2025-06-17,Laptop Stand,Accessories,1234,2,Noida,UPI,4.0,0.0
+ORD1115,2025-07-04,Webcam,Electronics,3299,3,Lucknow,Cash,4.0,5.0
+ORD1116,2025-07-27,External SSD,Electronics,6824,3,Jaipur,Credit Card,5.0,15.0
+ORD1117,2025-01-14,Webcam,Electronics,3299,3,Bengaluru,UPI,2.0,10.0
+ORD1118,2025-02-21,Power Bank,Electronics,1599,2,Gurugram,Cash,4.0,10.0
+ORD1119,2025-03-31,USB-C Hub,Accessories,1709,5,Gurugram,Cash,1.0,0.0
+ORD1120,2025-02-11,Wireless Mouse,Accessories,599,3,Delhi,Net Banking,4.0,5.0
+ORD1121,2025-06-10,Monitor,Electronics,12999,1,Delhi,Net Banking,4.0,0.0
+ORD1122,2025-09-01,Pen Set,Stationery,189,5,Jaipur,Debit Card,3.0,0.0
+ORD1123,2025-08-27,Water Bottle,Lifestyle,499,2,Pune,UPI,2.0,0.0
+ORD1124,2025-06-21,Power Bank,Electronics,1679,1,Delhi,UPI,4.0,10.0
+ORD1125,2025-11-09,Wireless Mouse,Accessories,599,3,Chennai,Debit Card,5.0,15.0
+ORD1126,2025-07-26,Backpack,Lifestyle,1899,2,Hyderabad,Debit Card,4.0,0.0
+ORD1127,2025-01-29,Phone Stand,Accessories,399,2,Bengaluru,Cash,5.0,0.0
+ORD1128,2025-10-07,Water Bottle,Lifestyle,474,3,Chennai,Net Banking,3.0,15.0
+ORD1129,2025-07-29,Desk Lamp,Home Office,1424,2,Mumbai,UPI,1.0,20.0
+ORD1130,2025-08-20,Desk Mat,Home Office,759,5,Delhi,UPI,4.0,0.0
+ORD1131,2025-07-26,Water Bottle,Lifestyle,499,1,Kolkata,Credit Card,5.0,10.0
+ORD1132,2025-07-22,Water Bottle,Lifestyle,474,2,Noida,Debit Card,3.0,10.0
+ORD1133,2025-02-03,Desk Mat,Home Office,799,5,Noida,Credit Card,5.0,0.0
+ORD1134,2025-07-24,Desk Lamp,Home Office,1499,5,Ahmedabad,Net Banking,4.0,20.0
+ORD1135,2025-10-18,Pen Set,Stationery,209,1,Hyderabad,Debit Card,4.0,15.0
+ORD1136,2025-04-21,Bluetooth Speaker,Electronics,2199,3,Pune,Cash,2.0,0.0
+ORD1137,2025-08-09,Phone Stand,Accessories,379,4,Pune,Credit Card,3.0,0.0
+ORD1138,2025-01-12,Office Chair,Home Office,8999,5,Jaipur,Credit Card,4.0,15.0
+ORD1139,2025-05-07,USB-C Hub,Accessories,1889,1,Ahmedabad,Credit Card,3.0,0.0
+ORD1140,2025-06-09,Notebook Set,Stationery,299,1,Bengaluru,Cash,5.0,10.0
+ORD1141,2025-12-25,Webcam,Electronics,3134,5,Delhi,Debit Card,4.0,20.0
+ORD1142,2025-03-20,Headphones,Electronics,2659,3,Noida,UPI,4.0,20.0
+ORD1143,2025-04-11,USB-C Hub,Accessories,1799,1,Hyderabad,Cash,4.0,0.0
+ORD1144,2025-05-30,USB-C Hub,Accessories,1799,2,Ahmedabad,Net Banking,1.0,20.0
+ORD1145,2025-12-29,Wireless Mouse,Accessories,599,1,,Net Banking,3.0,20.0
+ORD1146,2025-11-08,Office Chair,Home Office,8999,1,Kolkata,Debit Card,5.0,5.0
+ORD1147,2025-01-13,Backpack,Lifestyle,1899,4,Kolkata,Credit Card,5.0,15.0
+ORD1148,2025-03-27,USB-C Hub,Accessories,1799,5,Kolkata,Net Banking,5.0,0.0
+ORD1149,2025-10-27,Headphones,Electronics,2799,3,Pune,Net Banking,5.0,0.0
+ORD1150,2025-01-22,Office Chair,Home Office,8999,1,Jaipur,Debit Card,5.0,0.0
+ORD1151,2025-11-09,Webcam,Electronics,3134,4,Bengaluru,Net Banking,5.0,20.0
+ORD1152,2025-04-13,Webcam,Electronics,3299,2,Chennai,Net Banking,5.0,15.0
+ORD1153,2025-12-01,Office Chair,Home Office,8999,3,Kolkata,UPI,5.0,15.0
+ORD1154,2025-04-18,Backpack,Lifestyle,1899,5,Kolkata,Debit Card,5.0,0.0
+ORD1155,2025-06-08,Notebook Set,Stationery,314,5,Lucknow,Debit Card,3.0,0.0
+ORD1156,2025-08-30,Power Bank,Electronics,1599,3,Delhi,Credit Card,4.0,20.0
+ORD1157,2025-02-16,Monitor,Electronics,12999,5,Noida,Cash,4.0,5.0
+ORD1158,2025-07-23,Headphones,Electronics,2799,3,Kolkata,Credit Card,4.0,5.0
+ORD1159,2025-07-04,Desk Lamp,Home Office,1574,3,Chennai,UPI,4.0,0.0
+ORD1160,2025-10-14,Headphones,Electronics,2799,4,Mumbai,Credit Card,5.0,0.0
+ORD1161,2025-12-30,Wireless Mouse,Accessories,599,1,Gurugram,Cash,2.0,0.0
+ORD1162,2025-08-31,Water Bottle,Lifestyle,499,3,Noida,Credit Card,3.0,0.0
+ORD1163,2025-05-30,External SSD,Electronics,6174,3,Kolkata,UPI,3.0,5.0
+ORD1164,2025-05-29,USB-C Hub,Accessories,1709,1,Chennai,UPI,5.0,20.0
+ORD1165,2025-06-02,Notebook Set,Stationery,299,5,Mumbai,Credit Card,3.0,0.0
+ORD1166,2025-10-25,Bluetooth Speaker,Electronics,2199,2,Noida,Cash,5.0,20.0
+ORD1167,2025-04-28,Office Chair,Home Office,9449,2,Gurugram,Debit Card,3.0,0.0
+ORD1168,2025-03-02,Desk Mat,Home Office,799,2,Kolkata,Debit Card,5.0,0.0
+ORD1169,2025-05-03,Pen Set,Stationery,199,3,Kolkata,Debit Card,3.0,0.0
+ORD1170,2025-01-09,Water Bottle,Lifestyle,474,1,Noida,Credit Card,5.0,10.0
+ORD1171,2025-02-08,Pen Set,Stationery,199,5,Pune,Net Banking,5.0,5.0
+ORD1172,2025-02-02,Wireless Mouse,Accessories,599,1,Bengaluru,Cash,2.0,20.0
+ORD1173,2025-10-09,Webcam,Electronics,3464,4,Mumbai,Credit Card,5.0,0.0
+ORD1174,2025-09-21,Office Chair,Home Office,8549,4,Pune,UPI,3.0,5.0
+ORD1175,2025-09-12,Phone Stand,Accessories,399,1,Noida,,4.0,20.0
+ORD1176,2025-06-18,Backpack,Lifestyle,1899,4,Bengaluru,Credit Card,3.0,0.0
+ORD1177,2025-09-19,Wireless Mouse,Accessories,629,1,Noida,UPI,4.0,15.0
+ORD1178,2025-02-28,Bluetooth Speaker,Electronics,2199,3,Kolkata,Credit Card,4.0,10.0
+ORD1179,2025-11-25,Headphones,Electronics,2659,2,Mumbai,UPI,4.0,20.0
+ORD1180,2025-07-02,Phone Stand,Accessories,419,1,Mumbai,Credit Card,3.0,10.0
+ORD1181,2025-12-09,USB-C Hub,Accessories,1799,5,Delhi,Credit Card,5.0,0.0
+ORD1182,2025-02-25,Wireless Mouse,Accessories,599,5,Ahmedabad,UPI,4.0,5.0
+ORD1183,2025-07-01,Backpack,Lifestyle,1899,4,Bengaluru,Net Banking,5.0,20.0
+ORD1184,2025-09-12,Monitor,Electronics,12999,2,Chennai,Net Banking,5.0,0.0
+ORD1185,2025-06-30,Notebook Set,Stationery,299,3,Delhi,Net Banking,5.0,5.0
+ORD1186,2025-06-12,Office Chair,Home Office,8999,1,Lucknow,Cash,3.0,15.0
+ORD1187,2025-03-02,Laptop Stand,Accessories,1364,3,Chennai,Credit Card,1.0,10.0
+ORD1188,2025-05-20,Backpack,Lifestyle,1994,2,Hyderabad,Net Banking,4.0,0.0
+ORD1189,2025-03-29,Monitor,Electronics,12349,3,,Cash,4.0,10.0
+ORD1190,2025-04-21,USB-C Hub,Accessories,1889,4,Hyderabad,Debit Card,4.0,15.0
+ORD1191,2025-09-07,Bluetooth Speaker,Electronics,2199,4,Ahmedabad,UPI,5.0,5.0
+ORD1192,2025-08-19,Backpack,Lifestyle,1899,3,Bengaluru,UPI,5.0,15.0
+ORD1193,2025-08-10,Desk Lamp,Home Office,1424,5,Chennai,Credit Card,5.0,20.0
+ORD1194,2025-05-13,Webcam,Electronics,3464,3,Kolkata,Cash,3.0,10.0
+ORD1195,2025-12-17,Headphones,Electronics,2939,4,Pune,Cash,4.0,15.0
+ORD1196,2025-02-01,Desk Mat,Home Office,799,1,Jaipur,Debit Card,5.0,10.0
+ORD1197,2025-05-06,Bluetooth Speaker,Electronics,2199,1,Ahmedabad,Debit Card,4.0,5.0
+ORD1198,2025-02-13,Water Bottle,Lifestyle,499,2,Mumbai,Net Banking,5.0,0.0
+ORD1199,2025-05-04,USB-C Hub,Accessories,1799,4,Ahmedabad,Credit Card,4.0,0.0
+ORD1200,2025-12-18,Monitor,Electronics,12349,1,Lucknow,Net Banking,3.0,20.0
+ORD1201,2025-05-14,Desk Mat,Home Office,799,1,Mumbai,Net Banking,3.0,0.0
+ORD1202,2025-11-28,Bluetooth Speaker,Electronics,2199,2,Jaipur,Net Banking,3.0,20.0
+ORD1203,2025-06-30,External SSD,Electronics,6499,3,Jaipur,Cash,4.0,20.0
+ORD1204,2025-09-13,Pen Set,Stationery,199,2,Ahmedabad,UPI,5.0,0.0
+ORD1205,2025-06-16,Backpack,Lifestyle,1899,3,Jaipur,Debit Card,4.0,0.0
+ORD1206,2025-04-08,Notebook Set,Stationery,314,5,Ahmedabad,Credit Card,5.0,5.0
+ORD1207,2025-10-06,Phone Stand,Accessories,419,2,Hyderabad,Net Banking,4.0,10.0
+ORD1208,2025-12-20,Power Bank,Electronics,1599,5,Pune,Net Banking,5.0,0.0
+ORD1209,2025-04-07,External SSD,Electronics,6824,2,Noida,Net Banking,5.0,20.0
+ORD1210,2025-10-12,External SSD,Electronics,6499,2,Lucknow,UPI,4.0,5.0
+ORD1211,2025-04-06,Notebook Set,Stationery,299,4,Ahmedabad,Cash,3.0,
+ORD1212,2025-09-19,Water Bottle,Lifestyle,499,2,Pune,Credit Card,5.0,0.0
+ORD1213,2025-10-15,Bluetooth Speaker,Electronics,2309,3,Bengaluru,Credit Card,4.0,0.0
+ORD1214,2025-06-14,Water Bottle,Lifestyle,499,1,Noida,,5.0,0.0
+ORD1215,2025-09-26,Desk Lamp,Home Office,1424,1,Pune,Debit Card,3.0,20.0
+ORD1216,2025-04-10,External SSD,Electronics,6174,1,Chennai,Debit Card,,10.0
+ORD1217,2025-01-29,Bluetooth Speaker,Electronics,2309,4,Delhi,Net Banking,5.0,0.0
+ORD1218,2025-02-05,Webcam,Electronics,3299,3,Noida,Credit Card,2.0,10.0
+ORD1219,2025-06-13,Notebook Set,Stationery,314,3,Bengaluru,UPI,4.0,5.0
+ORD1220,2025-11-26,Webcam,Electronics,3299,2,Jaipur,Cash,5.0,10.0
+ORD1221,2025-02-16,Wireless Mouse,Accessories,629,1,Kolkata,UPI,5.0,0.0
+ORD1222,2025-06-16,USB-C Hub,Accessories,1889,2,Hyderabad,Credit Card,4.0,5.0
+ORD1223,2025-09-14,Laptop Stand,Accessories,1234,2,Jaipur,Cash,5.0,5.0
+ORD1224,2025-03-15,Notebook Set,Stationery,314,5,Lucknow,Net Banking,4.0,5.0
+ORD1225,2025-09-21,Webcam,Electronics,3299,4,Lucknow,UPI,5.0,5.0
+ORD1226,2025-04-22,Webcam,Electronics,3134,3,Noida,Net Banking,3.0,0.0
+ORD1227,2025-10-23,Bluetooth Speaker,Electronics,2199,2,Delhi,Debit Card,1.0,0.0
+ORD1228,2025-07-31,Mechanical Keyboard,Accessories,2499,5,Lucknow,UPI,5.0,0.0
+ORD1229,2025-07-19,Pen Set,Stationery,209,2,Bengaluru,UPI,5.0,0.0
+ORD1230,2025-03-06,Webcam,Electronics,3464,3,Kolkata,Debit Card,2.0,15.0
+ORD1231,2025-06-19,Power Bank,Electronics,1599,3,Jaipur,Debit Card,5.0,0.0
+ORD1232,2025-11-09,Laptop Stand,Accessories,1299,3,Lucknow,Cash,4.0,5.0
+ORD1233,2025-01-08,Power Bank,Electronics,1599,4,Bengaluru,Cash,2.0,15.0
+ORD1234,2025-10-04,Pen Set,Stationery,189,2,Bengaluru,UPI,5.0,0.0
+ORD1235,2025-06-29,Mechanical Keyboard,Accessories,2499,4,Gurugram,Net Banking,5.0,0.0
+ORD1236,2025-09-20,Laptop Stand,Accessories,1299,5,Pune,UPI,5.0,20.0
+ORD1237,2025-08-31,External SSD,Electronics,6824,3,Bengaluru,Cash,5.0,0.0
+ORD1238,2025-06-07,External SSD,Electronics,6499,2,Jaipur,UPI,4.0,10.0
+ORD1239,2025-04-23,Headphones,Electronics,2939,2,Jaipur,Debit Card,1.0,0.0
+ORD1240,2025-08-17,Desk Mat,Home Office,799,2,Chennai,Cash,4.0,0.0
+ORD1241,2025-02-21,Webcam,Electronics,3299,1,Lucknow,Credit Card,4.0,10.0
+ORD1242,2025-08-02,Pen Set,Stationery,199,1,Kolkata,UPI,4.0,0.0
+ORD1243,2025-02-04,Office Chair,Home Office,8999,5,Delhi,Credit Card,3.0,0.0
+ORD1244,2025-08-26,Desk Lamp,Home Office,1574,4,Ahmedabad,Cash,5.0,
+ORD1245,2025-08-18,Mechanical Keyboard,Accessories,2499,5,Chennai,Net Banking,2.0,20.0
+ORD1246,2025-01-31,Headphones,Electronics,2799,3,Ahmedabad,Debit Card,5.0,0.0
+ORD1247,2025-10-04,Wireless Mouse,Accessories,599,5,Mumbai,Debit Card,4.0,0.0
+ORD1248,2025-06-01,Backpack,Lifestyle,1804,1,Mumbai,Cash,4.0,20.0
+ORD1249,2025-10-15,Headphones,Electronics,2799,2,Delhi,Debit Card,3.0,5.0
+ORD1250,2025-01-16,Desk Mat,Home Office,799,3,Bengaluru,Net Banking,5.0,20.0
+ORD1251,2025-03-07,Notebook Set,Stationery,284,4,Mumbai,UPI,,0.0
+ORD1252,2025-06-30,Power Bank,Electronics,1519,1,Noida,Net Banking,5.0,15.0
+ORD1253,2025-03-10,Notebook Set,Stationery,299,1,Gurugram,Debit Card,4.0,0.0
+ORD1254,2025-05-01,Mechanical Keyboard,Accessories,2499,3,Gurugram,UPI,5.0,10.0
+ORD1255,2025-08-30,Desk Mat,Home Office,759,5,Gurugram,Credit Card,4.0,5.0
+ORD1256,2025-02-22,Bluetooth Speaker,Electronics,2309,5,Pune,Net Banking,4.0,5.0
+ORD1257,2025-09-05,Water Bottle,Lifestyle,474,4,Hyderabad,Credit Card,2.0,0.0
+ORD1258,2025-02-07,Monitor,Electronics,13649,1,Ahmedabad,Debit Card,4.0,5.0
+ORD1259,2025-03-05,Power Bank,Electronics,1599,5,Ahmedabad,Credit Card,5.0,20.0
+ORD1260,2025-08-03,Pen Set,Stationery,199,4,Hyderabad,Credit Card,4.0,5.0
+ORD1261,2025-10-17,Headphones,Electronics,2799,2,Ahmedabad,Credit Card,4.0,10.0
+ORD1262,2025-03-04,External SSD,Electronics,6499,1,Pune,Debit Card,3.0,0.0
+ORD1263,2025-04-20,Backpack,Lifestyle,1899,5,Pune,Net Banking,4.0,0.0
+ORD1264,2025-12-04,Pen Set,Stationery,199,3,,Debit Card,5.0,15.0
+ORD1265,2025-12-28,Laptop Stand,Accessories,1299,1,Jaipur,Net Banking,5.0,0.0
+ORD1266,2025-08-01,Phone Stand,Accessories,399,1,Gurugram,Net Banking,1.0,10.0
+ORD1267,2025-06-13,Office Chair,Home Office,8549,5,Jaipur,Net Banking,1.0,10.0
+ORD1268,2025-05-07,Headphones,Electronics,2799,1,Noida,Credit Card,4.0,5.0
+ORD1269,2025-08-12,Water Bottle,Lifestyle,474,3,Lucknow,Net Banking,5.0,0.0
+ORD1270,2025-08-04,External SSD,Electronics,6499,5,Kolkata,UPI,3.0,0.0
+ORD1271,2025-04-18,Power Bank,Electronics,1599,1,Chennai,Credit Card,5.0,10.0
+ORD1272,2025-01-09,Mechanical Keyboard,Accessories,2624,4,Noida,Net Banking,4.0,0.0
+ORD1273,2025-02-25,External SSD,Electronics,6824,3,Pune,UPI,5.0,0.0
+ORD1274,2025-12-16,Backpack,Lifestyle,1899,2,Kolkata,Cash,,20.0
+ORD1275,2025-06-02,Desk Mat,Home Office,799,5,Pune,UPI,2.0,5.0
+ORD1276,2025-06-26,Phone Stand,Accessories,399,2,Noida,UPI,3.0,0.0
+ORD1277,2025-06-20,Pen Set,Stationery,209,1,Delhi,Net Banking,4.0,10.0
+ORD1278,2025-10-13,Power Bank,Electronics,1599,3,Mumbai,Cash,4.0,15.0
+ORD1279,2025-01-24,Monitor,Electronics,12999,1,Delhi,Debit Card,4.0,5.0
+ORD1280,2025-01-31,Desk Mat,Home Office,799,3,Mumbai,Debit Card,4.0,0.0
+ORD1281,2025-04-11,Laptop Stand,Accessories,1234,3,Gurugram,UPI,5.0,5.0
+ORD1282,2025-06-27,Power Bank,Electronics,1679,2,Delhi,Debit Card,5.0,10.0
+ORD1283,2025-09-02,Phone Stand,Accessories,399,2,Chennai,UPI,1.0,5.0
+ORD1284,2025-06-29,Laptop Stand,Accessories,1299,2,Gurugram,Debit Card,1.0,20.0
+ORD1285,2025-06-11,Laptop Stand,Accessories,1299,3,Hyderabad,Debit Card,1.0,20.0
+ORD1286,2025-12-09,Bluetooth Speaker,Electronics,2309,4,Noida,Net Banking,2.0,0.0
+ORD1287,2025-02-28,Wireless Mouse,Accessories,629,5,Mumbai,Cash,5.0,10.0
+ORD1288,2025-07-28,Phone Stand,Accessories,399,4,Pune,Cash,2.0,5.0
+ORD1289,2025-07-17,Laptop Stand,Accessories,1364,2,Hyderabad,Cash,3.0,0.0
+ORD1290,2025-06-22,Laptop Stand,Accessories,1364,1,Mumbai,Cash,5.0,20.0
+ORD1291,2025-10-22,Backpack,Lifestyle,1994,1,Gurugram,Cash,5.0,20.0
+ORD1292,2025-04-08,Office Chair,Home Office,8549,5,Lucknow,Credit Card,4.0,10.0
+ORD1293,2025-12-15,External SSD,Electronics,6824,2,Gurugram,Debit Card,4.0,15.0
+ORD1294,2025-05-02,Water Bottle,Lifestyle,499,5,,Credit Card,4.0,5.0
+ORD1295,2025-07-18,USB-C Hub,Accessories,1709,4,Delhi,Debit Card,4.0,15.0
+ORD1296,2025-07-10,Laptop Stand,Accessories,1364,5,Ahmedabad,UPI,3.0,0.0
+ORD1297,2025-11-07,Phone Stand,Accessories,399,2,Gurugram,Net Banking,4.0,0.0
+ORD1298,2025-06-10,Office Chair,Home Office,9449,5,Gurugram,UPI,,0.0
+ORD1299,2025-04-14,Headphones,Electronics,2659,5,Delhi,UPI,4.0,0.0
+ORD1300,2025-01-08,Headphones,Electronics,2939,2,Kolkata,Cash,3.0,10.0
+ORD1301,2025-05-13,Backpack,Lifestyle,1994,5,Ahmedabad,Cash,5.0,20.0
+ORD1302,2025-10-29,USB-C Hub,Accessories,1799,1,Mumbai,Debit Card,4.0,0.0
+ORD1303,2025-01-04,Office Chair,Home Office,9449,5,Pune,Credit Card,4.0,15.0
+ORD1304,2025-11-24,Power Bank,Electronics,1519,4,Hyderabad,UPI,5.0,10.0
+ORD1305,2025-07-18,USB-C Hub,Accessories,1799,5,Bengaluru,Cash,3.0,15.0
+ORD1306,2025-02-21,Notebook Set,Stationery,314,4,Bengaluru,Net Banking,4.0,0.0
+ORD1307,2025-04-21,Backpack,Lifestyle,1899,1,Kolkata,Net Banking,5.0,5.0
+ORD1308,2025-07-22,Mechanical Keyboard,Accessories,2499,3,Chennai,Net Banking,2.0,5.0
+ORD1309,2025-04-26,Pen Set,Stationery,199,2,Bengaluru,Cash,2.0,10.0
+ORD1310,2025-02-09,Desk Lamp,Home Office,1574,1,Chennai,Debit Card,4.0,20.0
+ORD1311,2025-09-01,Notebook Set,Stationery,284,5,Lucknow,Cash,5.0,10.0
+ORD1312,2025-09-03,Desk Mat,Home Office,799,3,Ahmedabad,UPI,4.0,20.0
+ORD1313,2025-02-13,Bluetooth Speaker,Electronics,2199,3,Ahmedabad,Cash,5.0,15.0
+ORD1314,2025-04-13,Notebook Set,Stationery,299,3,Chennai,Cash,,15.0
+ORD1315,2025-03-31,Wireless Mouse,Accessories,599,3,Chennai,Debit Card,5.0,0.0
+ORD1316,2025-08-29,Headphones,Electronics,2659,2,Bengaluru,Credit Card,5.0,10.0
+ORD1317,2025-09-24,Webcam,Electronics,3464,4,Hyderabad,Debit Card,5.0,0.0
+ORD1318,2025-09-23,Monitor,Electronics,12349,2,Bengaluru,Credit Card,4.0,0.0
+ORD1319,2025-12-09,Laptop Stand,Accessories,1364,4,Lucknow,UPI,3.0,15.0
+ORD1320,2025-10-08,Pen Set,Stationery,199,4,Chennai,Net Banking,3.0,0.0
+ORD1321,2025-04-28,Webcam,Electronics,3299,2,Mumbai,Cash,5.0,10.0
+ORD1322,2025-02-09,USB-C Hub,Accessories,1709,3,Chennai,Credit Card,5.0,15.0
+ORD1323,2025-08-13,Mechanical Keyboard,Accessories,2624,2,Chennai,Debit Card,3.0,
+ORD1324,2025-12-01,Headphones,Electronics,2799,1,Bengaluru,Credit Card,4.0,5.0
+ORD1325,2025-12-22,Notebook Set,Stationery,299,5,Lucknow,UPI,3.0,0.0
+ORD1326,2025-03-26,Headphones,Electronics,2659,1,Chennai,Cash,4.0,0.0
+ORD1327,2025-03-28,Desk Mat,Home Office,799,3,Lucknow,UPI,4.0,20.0
+ORD1328,2025-01-14,Office Chair,Home Office,8999,1,Noida,Cash,4.0,20.0
+ORD1329,2025-02-21,Power Bank,Electronics,1679,5,Noida,Debit Card,4.0,15.0
+ORD1330,2025-07-22,Pen Set,Stationery,189,4,Delhi,Debit Card,4.0,5.0
+ORD1331,2025-07-19,Water Bottle,Lifestyle,499,3,Kolkata,Cash,5.0,10.0
+ORD1332,2025-05-16,External SSD,Electronics,6174,4,Bengaluru,UPI,5.0,15.0
+ORD1333,2025-04-24,Pen Set,Stationery,209,4,Noida,UPI,4.0,20.0
+ORD1334,2025-10-30,USB-C Hub,Accessories,1799,4,Hyderabad,Net Banking,5.0,10.0
+ORD1335,2025-06-17,Power Bank,Electronics,1599,5,Kolkata,Cash,3.0,0.0
+ORD1336,2025-10-23,Webcam,Electronics,3134,4,Delhi,Cash,4.0,20.0
+ORD1337,2025-12-18,Mechanical Keyboard,Accessories,2624,1,Jaipur,Cash,3.0,0.0
+ORD1338,2025-04-26,Webcam,Electronics,3464,5,Hyderabad,Net Banking,3.0,20.0
+ORD1339,2025-03-15,Bluetooth Speaker,Electronics,2199,5,Lucknow,Debit Card,3.0,0.0
+ORD1340,2025-12-14,Headphones,Electronics,2939,3,Hyderabad,UPI,4.0,5.0
+ORD1341,2025-08-20,Notebook Set,Stationery,299,4,Lucknow,Cash,4.0,15.0
+ORD1342,2025-04-17,Pen Set,Stationery,209,5,,Cash,4.0,0.0
+ORD1343,2025-08-15,Headphones,Electronics,2939,5,Delhi,Credit Card,4.0,0.0
+ORD1344,2025-07-07,Pen Set,Stationery,209,4,Mumbai,UPI,5.0,5.0
+ORD1345,2025-11-27,USB-C Hub,Accessories,1799,2,Bengaluru,UPI,4.0,0.0
+ORD1346,2025-04-04,Power Bank,Electronics,1599,4,Noida,Debit Card,,10.0
+ORD1347,2025-12-28,USB-C Hub,Accessories,1889,1,Pune,Cash,5.0,5.0
+ORD1348,2025-12-08,Mechanical Keyboard,Accessories,2499,5,Jaipur,UPI,2.0,15.0
+ORD1349,2025-03-07,Power Bank,Electronics,1599,1,Bengaluru,UPI,4.0,0.0
+ORD1350,2025-03-02,Webcam,Electronics,3299,1,Lucknow,,5.0,20.0
+ORD1351,2025-07-14,Office Chair,Home Office,8999,4,Hyderabad,UPI,3.0,0.0
+ORD1352,2025-01-17,Wireless Mouse,Accessories,629,3,Pune,Net Banking,5.0,0.0
+ORD1353,2025-04-20,Office Chair,Home Office,8999,2,Delhi,UPI,4.0,0.0
+ORD1354,2025-06-08,Power Bank,Electronics,1599,1,Bengaluru,,5.0,20.0
+ORD1355,2025-12-20,Webcam,Electronics,3464,1,Bengaluru,Debit Card,5.0,0.0
+ORD1356,2025-12-29,Backpack,Lifestyle,1899,1,Ahmedabad,Debit Card,2.0,15.0
+ORD1357,2025-02-25,USB-C Hub,Accessories,1799,1,Gurugram,UPI,4.0,15.0
+ORD1358,2025-11-22,Mechanical Keyboard,Accessories,2624,1,Kolkata,Net Banking,5.0,15.0
+ORD1359,2025-02-03,USB-C Hub,Accessories,1799,4,Hyderabad,Debit Card,,0.0
+ORD1360,2025-10-01,Bluetooth Speaker,Electronics,2199,4,Kolkata,Debit Card,4.0,10.0
+ORD1361,2025-11-05,Monitor,Electronics,12999,5,Noida,Cash,5.0,0.0
+ORD1362,2025-11-22,Bluetooth Speaker,Electronics,2199,2,Kolkata,Cash,5.0,0.0
+ORD1363,2025-03-23,Water Bottle,Lifestyle,524,1,Jaipur,Net Banking,5.0,20.0
+ORD1364,2025-11-23,Power Bank,Electronics,1599,2,Ahmedabad,Cash,5.0,5.0
+ORD1365,2025-02-12,Laptop Stand,Accessories,1234,3,Pune,Cash,3.0,20.0
+ORD1366,2025-07-09,Backpack,Lifestyle,1899,4,Pune,Cash,5.0,20.0
+ORD1367,2025-06-21,Monitor,Electronics,12999,2,Lucknow,Credit Card,4.0,5.0
+ORD1368,2025-04-26,Bluetooth Speaker,Electronics,2199,5,Lucknow,Net Banking,3.0,0.0
+ORD1369,2025-01-09,Desk Mat,Home Office,799,2,Kolkata,Cash,,5.0
+ORD1370,2025-10-09,Water Bottle,Lifestyle,499,5,Noida,Cash,4.0,0.0
+ORD1371,2025-05-03,Power Bank,Electronics,1679,5,Delhi,Credit Card,3.0,15.0
+ORD1372,2025-08-30,Backpack,Lifestyle,1994,2,Jaipur,Cash,3.0,20.0
+ORD1373,2025-05-30,Backpack,Lifestyle,1899,3,Lucknow,Cash,3.0,0.0
+ORD1374,2025-05-17,Power Bank,Electronics,1519,2,Gurugram,Debit Card,4.0,
+ORD1375,2025-11-20,Headphones,Electronics,2799,5,Kolkata,UPI,4.0,5.0
+ORD1376,2025-02-04,Mechanical Keyboard,Accessories,2499,2,Bengaluru,UPI,5.0,20.0
+ORD1377,2025-09-26,Mechanical Keyboard,Accessories,2499,5,Kolkata,UPI,5.0,0.0
+ORD1378,2025-09-30,Laptop Stand,Accessories,1364,4,Gurugram,Net Banking,3.0,0.0
+ORD1379,2025-05-19,Bluetooth Speaker,Electronics,2199,1,Mumbai,UPI,2.0,0.0
+ORD1380,2025-04-06,Mechanical Keyboard,Accessories,2624,1,Delhi,UPI,5.0,0.0
+ORD1381,2025-01-02,Pen Set,Stationery,199,1,Lucknow,UPI,5.0,10.0
+ORD1382,2025-12-08,Bluetooth Speaker,Electronics,2199,3,Kolkata,Net Banking,4.0,15.0
+ORD1383,2025-12-12,Notebook Set,Stationery,299,1,,UPI,5.0,0.0
+ORD1384,2025-03-29,Monitor,Electronics,12999,3,Mumbai,Cash,5.0,0.0
+ORD1385,2025-01-12,Notebook Set,Stationery,299,5,Jaipur,Cash,2.0,20.0
+ORD1386,2025-02-14,Phone Stand,Accessories,399,2,Hyderabad,Cash,5.0,0.0
+ORD1387,2025-01-25,Office Chair,Home Office,9449,1,Hyderabad,Net Banking,3.0,10.0
+ORD1388,2025-10-31,Headphones,Electronics,2799,2,Ahmedabad,Debit Card,4.0,10.0
+ORD1389,2025-11-22,Desk Mat,Home Office,759,2,Jaipur,Cash,5.0,15.0
+ORD1390,2025-02-25,Desk Lamp,Home Office,1424,4,Chennai,UPI,2.0,5.0
+ORD1391,2025-09-30,External SSD,Electronics,6499,2,Chennai,Net Banking,3.0,15.0
+ORD1392,2025-03-07,Phone Stand,Accessories,419,3,Kolkata,UPI,4.0,15.0
+ORD1393,2025-05-15,Backpack,Lifestyle,1899,1,Ahmedabad,,4.0,20.0
+ORD1394,2025-08-07,External SSD,Electronics,6499,4,Ahmedabad,Net Banking,2.0,15.0
+ORD1395,2025-09-20,Power Bank,Electronics,1599,4,Chennai,Debit Card,4.0,20.0
+ORD1396,2025-11-16,Desk Lamp,Home Office,1499,5,Gurugram,Debit Card,3.0,5.0
+ORD1397,2025-01-17,Power Bank,Electronics,1599,1,Mumbai,Debit Card,4.0,0.0
+ORD1398,2025-03-13,Headphones,Electronics,2799,3,Jaipur,Cash,4.0,0.0
+ORD1399,2025-04-13,External SSD,Electronics,6174,1,Gurugram,Net Banking,4.0,0.0
+ORD1400,2025-04-24,Laptop Stand,Accessories,1299,2,Ahmedabad,Credit Card,5.0,5.0
+ORD1401,2025-12-31,USB-C Hub,Accessories,1799,2,Noida,Net Banking,5.0,10.0
+ORD1402,2025-10-11,Water Bottle,Lifestyle,524,2,Gurugram,Net Banking,3.0,0.0
+ORD1403,2025-04-27,Headphones,Electronics,2799,4,Hyderabad,Cash,5.0,10.0
+ORD1404,2025-12-21,Wireless Mouse,Accessories,629,1,Kolkata,Credit Card,5.0,10.0
+ORD1405,2025-07-02,Power Bank,Electronics,1679,2,Bengaluru,Credit Card,5.0,10.0
+ORD1406,2025-07-02,Webcam,Electronics,3299,5,Chennai,Credit Card,5.0,20.0
+ORD1407,2025-06-08,Desk Mat,Home Office,839,3,Lucknow,Net Banking,4.0,0.0
+ORD1408,2025-02-22,Office Chair,Home Office,8999,1,Kolkata,UPI,4.0,10.0
+ORD1409,2025-12-08,Power Bank,Electronics,1599,4,Jaipur,Net Banking,4.0,5.0
+ORD1410,2025-01-06,Backpack,Lifestyle,1804,3,Bengaluru,Debit Card,4.0,20.0
+ORD1411,2025-03-05,Mechanical Keyboard,Accessories,2499,1,Lucknow,Net Banking,1.0,10.0
+ORD1412,2025-03-25,External SSD,Electronics,6499,1,Bengaluru,Credit Card,3.0,10.0
+ORD1413,2025-04-12,Notebook Set,Stationery,284,1,Delhi,Net Banking,1.0,10.0
+ORD1414,2025-02-18,Wireless Mouse,Accessories,629,1,Mumbai,Debit Card,,10.0
+ORD1415,2025-01-07,Notebook Set,Stationery,299,2,Delhi,Debit Card,5.0,15.0
+ORD1416,2025-09-05,USB-C Hub,Accessories,1709,3,Bengaluru,Debit Card,4.0,20.0
+ORD1417,2025-12-20,Notebook Set,Stationery,284,5,Bengaluru,Net Banking,5.0,10.0
+ORD1418,2025-02-14,Laptop Stand,Accessories,1299,5,Gurugram,Net Banking,3.0,5.0
+ORD1419,2025-04-19,Desk Mat,Home Office,799,4,Pune,Cash,1.0,0.0
+ORD1420,2025-07-04,Mechanical Keyboard,Accessories,2499,3,Jaipur,Credit Card,4.0,0.0
+ORD1421,2025-12-05,Backpack,Lifestyle,1899,2,Ahmedabad,Cash,5.0,15.0
+ORD1422,2025-09-11,Laptop Stand,Accessories,1299,1,Mumbai,Net Banking,4.0,5.0
+ORD1423,2025-10-07,Notebook Set,Stationery,299,1,Delhi,Net Banking,4.0,0.0
+ORD1424,2025-08-01,USB-C Hub,Accessories,1799,1,Bengaluru,UPI,5.0,15.0
+ORD1425,2025-06-02,Power Bank,Electronics,1599,4,Gurugram,Debit Card,5.0,0.0
+ORD1426,2025-03-14,Backpack,Lifestyle,1994,3,Delhi,Net Banking,5.0,15.0
+ORD1427,2025-11-12,Laptop Stand,Accessories,1364,2,Gurugram,UPI,2.0,
+ORD1428,2025-10-21,Mechanical Keyboard,Accessories,2624,1,Ahmedabad,Net Banking,4.0,10.0
+ORD1429,2025-01-10,Office Chair,Home Office,8999,3,Mumbai,Cash,2.0,15.0
+ORD1430,2025-09-19,Notebook Set,Stationery,299,1,Noida,Debit Card,4.0,5.0
+ORD1431,2025-01-31,Backpack,Lifestyle,1899,5,Gurugram,UPI,4.0,15.0
+ORD1432,2025-09-27,External SSD,Electronics,6174,2,Bengaluru,Cash,5.0,5.0
+ORD1433,2025-10-29,Backpack,Lifestyle,1899,1,Bengaluru,Net Banking,,20.0
+ORD1434,2025-02-17,Laptop Stand,Accessories,1364,4,Bengaluru,Debit Card,5.0,10.0
+ORD1435,2025-06-08,USB-C Hub,Accessories,1799,1,Jaipur,Cash,3.0,20.0
+ORD1436,2025-02-15,Water Bottle,Lifestyle,474,4,Jaipur,Net Banking,2.0,5.0
+ORD1437,2025-07-27,Power Bank,Electronics,1599,4,Lucknow,UPI,4.0,0.0
+ORD1438,2025-12-05,Wireless Mouse,Accessories,629,4,Kolkata,Credit Card,4.0,20.0
+ORD1439,2025-01-30,Monitor,Electronics,13649,2,Ahmedabad,UPI,5.0,0.0
+ORD1440,2025-05-26,Notebook Set,Stationery,299,2,Mumbai,Credit Card,5.0,0.0
+ORD1441,2025-12-22,USB-C Hub,Accessories,1709,3,Hyderabad,Debit Card,4.0,0.0
+ORD1442,2025-04-20,Notebook Set,Stationery,299,3,Kolkata,Credit Card,1.0,0.0
+ORD1443,2025-02-18,Notebook Set,Stationery,299,2,Pune,Credit Card,2.0,10.0
+ORD1444,2025-06-28,Power Bank,Electronics,1519,3,Bengaluru,Credit Card,4.0,5.0
+ORD1445,2025-07-05,Pen Set,Stationery,209,1,Pune,Net Banking,4.0,10.0
+ORD1446,2025-08-30,USB-C Hub,Accessories,1709,4,Kolkata,Cash,4.0,5.0
+ORD1447,2025-04-25,Pen Set,Stationery,189,1,Lucknow,Net Banking,1.0,20.0
+ORD1448,2025-12-15,External SSD,Electronics,6499,2,Lucknow,Net Banking,5.0,0.0
+ORD1449,2025-07-10,Backpack,Lifestyle,1899,2,Gurugram,Net Banking,1.0,20.0
+ORD1450,2025-04-15,Headphones,Electronics,2799,5,Kolkata,Debit Card,4.0,0.0
+ORD1451,2025-12-17,Mechanical Keyboard,Accessories,2624,1,Delhi,UPI,5.0,5.0
+ORD1452,2025-12-04,Backpack,Lifestyle,1899,1,Chennai,UPI,4.0,20.0
+ORD1453,2025-07-02,Wireless Mouse,Accessories,569,2,Delhi,Cash,3.0,20.0
+ORD1454,2025-01-10,Monitor,Electronics,12999,1,Mumbai,Debit Card,5.0,5.0
+ORD1455,2025-08-06,Pen Set,Stationery,199,5,Gurugram,Net Banking,4.0,0.0
+ORD1456,2025-07-22,Pen Set,Stationery,209,1,Chennai,UPI,5.0,0.0
+ORD1457,2025-02-24,Phone Stand,Accessories,399,2,Kolkata,Net Banking,3.0,20.0
+ORD1458,2025-08-20,Notebook Set,Stationery,299,1,Delhi,Debit Card,3.0,5.0
+ORD1459,2025-11-03,Notebook Set,Stationery,299,3,Bengaluru,Debit Card,3.0,15.0
+ORD1460,2025-02-08,Backpack,Lifestyle,1899,3,Pune,Credit Card,4.0,15.0
+ORD1461,2025-09-22,Office Chair,Home Office,8999,1,Noida,UPI,3.0,10.0
+ORD1462,2025-02-21,Wireless Mouse,Accessories,629,3,Pune,Cash,4.0,0.0
+ORD1463,2025-10-01,Backpack,Lifestyle,1804,5,Bengaluru,Cash,3.0,15.0
+ORD1464,2025-06-02,Bluetooth Speaker,Electronics,2309,5,Gurugram,Credit Card,,10.0
+ORD1465,2025-01-03,Power Bank,Electronics,1599,4,Gurugram,Debit Card,3.0,5.0
+ORD1466,2025-12-19,USB-C Hub,Accessories,1799,5,Kolkata,Cash,4.0,0.0
+ORD1467,2025-03-02,Headphones,Electronics,2659,1,Gurugram,Cash,1.0,0.0
+ORD1468,2025-08-06,External SSD,Electronics,6174,4,Bengaluru,Credit Card,1.0,0.0
+ORD1469,2025-03-08,Headphones,Electronics,2799,2,Bengaluru,Net Banking,4.0,5.0
+ORD1470,2025-12-07,External SSD,Electronics,6499,2,Hyderabad,Credit Card,1.0,0.0
+ORD1471,2025-09-27,Webcam,Electronics,3299,2,Lucknow,Debit Card,5.0,20.0
+ORD1472,2025-10-21,Wireless Mouse,Accessories,599,4,Kolkata,Net Banking,5.0,0.0
+ORD1473,2025-06-07,Mechanical Keyboard,Accessories,2499,4,Noida,Debit Card,4.0,20.0
+ORD1474,2025-06-20,USB-C Hub,Accessories,1799,4,Lucknow,Cash,5.0,0.0
+ORD1475,2025-08-20,Water Bottle,Lifestyle,474,5,Gurugram,Debit Card,2.0,15.0
+ORD1476,2025-10-14,Webcam,Electronics,3299,1,Delhi,Cash,5.0,15.0
+ORD1477,2025-11-06,Monitor,Electronics,12999,3,Noida,Credit Card,3.0,0.0
+ORD1478,2025-01-07,External SSD,Electronics,6499,5,Delhi,Cash,3.0,5.0
+ORD1479,2025-08-31,External SSD,Electronics,6499,5,Chennai,UPI,3.0,20.0
+ORD1480,2025-02-09,Phone Stand,Accessories,419,5,Chennai,Cash,4.0,0.0
+ORD1481,2025-04-16,Wireless Mouse,Accessories,599,3,Hyderabad,Credit Card,3.0,10.0
+ORD1482,2025-10-30,Pen Set,Stationery,199,4,Kolkata,Debit Card,5.0,5.0
+ORD1483,2025-04-02,External SSD,Electronics,6499,4,Gurugram,UPI,5.0,15.0
+ORD1484,2025-10-18,Desk Lamp,Home Office,1574,1,Mumbai,Net Banking,3.0,10.0
+ORD1485,2025-06-18,Webcam,Electronics,3464,2,Ahmedabad,Credit Card,5.0,0.0
+ORD1486,2025-03-26,Desk Mat,Home Office,759,2,Kolkata,Credit Card,2.0,15.0
+ORD1487,2025-05-02,Headphones,Electronics,2799,1,Lucknow,UPI,4.0,0.0
+ORD1488,2025-07-13,Bluetooth Speaker,Electronics,2199,1,Ahmedabad,Credit Card,5.0,0.0
+ORD1489,2025-10-07,Webcam,Electronics,3464,2,Bengaluru,Credit Card,4.0,0.0
+ORD1490,2025-08-10,Headphones,Electronics,2799,3,Chennai,Debit Card,2.0,0.0
+ORD1491,2025-12-07,Notebook Set,Stationery,314,4,Chennai,Credit Card,4.0,20.0
+ORD1492,2025-11-13,Pen Set,Stationery,209,5,Mumbai,Net Banking,,0.0
+ORD1493,2025-10-02,Office Chair,Home Office,9449,2,Hyderabad,Credit Card,4.0,5.0
+ORD1494,2025-08-09,Pen Set,Stationery,199,2,,Debit Card,3.0,20.0
+ORD1495,2025-04-16,Water Bottle,Lifestyle,499,4,Delhi,,5.0,0.0
+ORD1496,2025-05-31,Mechanical Keyboard,Accessories,2499,3,Ahmedabad,Debit Card,5.0,0.0
+ORD1497,2025-02-13,Phone Stand,Accessories,399,3,Noida,Debit Card,4.0,0.0
+ORD1498,2025-05-17,Desk Mat,Home Office,799,5,Kolkata,Debit Card,2.0,0.0
+ORD1499,2025-12-05,Water Bottle,Lifestyle,499,3,Hyderabad,Cash,3.0,5.0
+ORD1500,2025-06-05,Notebook Set,Stationery,299,2,Ahmedabad,Credit Card,4.0,5.0
